@@ -1,0 +1,7 @@
+insert into course(id,name,author)
+values(1,'Learn JPA', '
+anubhav')
+
+select * from course
+
+ 
