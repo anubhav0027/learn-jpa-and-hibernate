@@ -1,4 +1,4 @@
-package com.LearningJPA.Hibernate.learn_jpa_and_hibernate.Jdbc;
+package com.LearningJPA.Hibernate.learn_jpa_and_hibernate;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
