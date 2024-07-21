@@ -27,6 +27,9 @@ public class CourseJdbcCommandLineRunner implements CommandLineRunner {
 
         System.out.println(repository.findById(2l));
 
+        System.out.println(repository.findAll());
+
         
+        System.out.println(repository.findByAuthor("anubhav"));
     }
 }
