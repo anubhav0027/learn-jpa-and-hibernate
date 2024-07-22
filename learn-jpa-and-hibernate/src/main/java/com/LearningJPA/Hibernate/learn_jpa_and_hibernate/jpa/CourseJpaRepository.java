@@ -9,7 +9,7 @@ import jakarta.persistence.PersistenceContext;
 import jakarta.transaction.Transactional;
 
 @Repository
-@Transactional
+@Transactional 
 public class CourseJpaRepository {
     @PersistenceContext
     private EntityManager entityManager;
